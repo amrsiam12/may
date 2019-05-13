@@ -1,6 +1,6 @@
 owner=569947283421003777
 prefix=1
-game=Saoud | 1play
+game=Music | 1play
 stayinchannel=true
 songinstatus=false
 token=NTc3NjAwNjI2NTk5NTI2NDI2.XNnalA.UyoFmOKGpTUvMmM_yDIJGknFuUo
